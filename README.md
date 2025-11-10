@@ -23,6 +23,3 @@ It’s a simple layout that lists food categories like *Starters*, *Main Course*
 - The main title (`<h1>`) is colored orange using `color: #d35400;`.
 
 ---
-
-## 📸 Example Layout (Text View)
-
